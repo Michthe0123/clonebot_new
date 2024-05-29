@@ -11,19 +11,19 @@ logging.getLogger("pyrogram").setLevel(logging.WARNING)
 class Config(object):
 
     # Get a bot token from botfather
-    TG_BOT_TOKEN = "Your_Telegram_bot_token"
+    TG_BOT_TOKEN = "7337806154:AAHCaq6_zvgSVb56fsQa_68YLJY9RbtlP1Y"
 
     # Get from my.telegram.org
-    APP_ID = int(Your_telegram_App_Id)
+    APP_ID = int(20839691)
 
     # Get from my.telegram.org
-    API_HASH = "Your_Telegram_Api_Hash"
+    API_HASH = "d3811826548276448c7065125d3034a3"
 
     # Generate a user session string
-    TG_USER_SESSION = "Your_user_session_string_compatible_with_Pyrogram_v2"
+    TG_USER_SESSION = "1BVtsOIABu1o4NTTLNOm76cUnkX9rk2KQ8iboPGS7fOKbmOdCJ9joAI48e5R6EU3P_5WD6jnFrrNqbEv2N8tu7blBCBzIlc9vzZPPVG_SRxVHJdUFpe0B18qrssYYUgnHPU6eukMd4py9OvJpkbkYesdtei7C3h0279l8zUxZHxsGacrxWwileNKz1PXdkmSvf7nQkuFmSw7zpnIF6RauCINiX3FkwGJ08zJ79uMcFirTDCaL7PXqrY3PJHCHMGl-PpZ8uctj77yviPz3E3tjX8_KWKP5GJrlz30_fSSrW61lK9yTeSfh43dbjwvyJ_30Paa50rbYSiHEXf6msLGMe_2gt0q-29w="
 
     # Database URI
-    DB_URI = "Your_database_URI"
+    DB_URI = "-4065852557"
 
 
 def LOGGER(name: str) -> logging.Logger:
